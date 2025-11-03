@@ -1,0 +1,9 @@
+{
+  "name": "IC DAO Token",
+  "symbol": "IC",
+  "description": "The governance and utility token of IC DAO, a decentralized real estate investment ecosystem built on Solana.",
+  "image": "https://raw.githubusercontent.com/YOURUSERNAME/IC-DAO/main/assets/icdao-logo.png",
+  "mint": "5211eKAN2wP3rzAFZyFcTekrcEbZG7Wcvn64dKPrbnB",
+  "decimals": 9,
+  "tags": ["real-estate", "dao", "solana", "governance", "tokenization"]
+}
