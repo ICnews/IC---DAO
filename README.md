@@ -63,3 +63,16 @@ MIT License — feel free to fork, build, or contribute.
 ---
 
 > “We’re not just tokenizing assets — we’re redefining how the world invests.”
+---
+
+## 🤝 Contributing & Contact
+
+We welcome developers, partners, and community members who want to help shape the future of decentralized real estate investing.
+
+If you’d like to contribute to IC DAO — whether through development, marketing, or strategic partnerships — we’d love to hear from you.
+
+📧 **Contact:** [info@investincryptonews.com](mailto:info@investincryptonews.com)  
+🌐 **Website:** [investincryptonews.com](https://investincryptonews.com)  
+🐦 **Twitter (X):** [@ICnews01](https://twitter.com/ICnews01)
+
+> Together, we’re building the world’s first truly open real estate DAO. 🌍
