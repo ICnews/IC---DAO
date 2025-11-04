@@ -1,6 +1,17 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ICnews/IC---DAO?color=00e5c6)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ICnews/IC---DAO?color=blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+---
+
+## 🚀 Project Status
+
+**Current Phase:** DAO Setup — In Progress  
+**Timeline:** Q4 2024 – Q1 2025  
+**Next Step:** Realms verification & liquidity launch  
+
+> Building the foundation for decentralized real estate investment. 🌍
+
+---
 
 # IC-DAO
 Tokenized real estate & decentralized investment DAO built on Solana.
