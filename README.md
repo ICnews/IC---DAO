@@ -76,3 +76,10 @@ If you’d like to contribute to IC DAO — whether through development, marketi
 🐦 **Twitter (X):** [@ICnews01](https://twitter.com/ICnews01)
 
 > Together, we’re building the world’s first truly open real estate DAO. 🌍
+---
+
+## 🔍 SEO & Keywords
+
+**Keywords:** IC DAO, Solana DAO, tokenized real estate, blockchain investing, DAO governance, decentralized property, Web3 assets, crypto real estate, DeFi, IC Token
+
+> Indexed for better discoverability across GitHub, Realms, and Web3 search tools.
