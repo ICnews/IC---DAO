@@ -1,3 +1,19 @@
+# ⚠️ LEGACY / HISTORICAL REPOSITORY
+
+This repository contains an earlier development direction of IC DAO and is retained for historical reference.
+
+Its roadmap, token, liquidity, governance, staking, cross-chain and tokenization claims **do not represent the current institutional direction of IC DAO**.
+
+Current institutional and product architecture is being rebuilt under a controlled internal process. This repository is **not** the current institutional Source of Truth and is **not** the current development repository.
+
+**Pre-deprecation historical reference:** `cfd05b443e4a2af8a57f9131e95142f30f11381e`
+
+---
+
+> **Historical content begins below. It is preserved as evidence of an earlier IC DAO direction and should not be interpreted as current strategy, architecture, roadmap, governance, liquidity or tokenization intent.**
+
+---
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/ICnews/IC---DAO?color=00e5c6)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ICnews/IC---DAO?color=blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
