@@ -1,3 +1,17 @@
+# ⚠️ HISTORICAL TOKENOMICS — NOT CURRENT ECONOMIC OR INVESTOR TERMS
+
+This file preserves an earlier IC DAO tokenomics model for historical reference.
+
+IC DAO continues to treat **tokenization / digital representation, governance and Solana** as important parts of the broader system direction. However, this historical file is **not** the current authority for token economics, token utility, governance rights, investor access, liquidity, rewards, vesting or ownership semantics.
+
+The allocation model, vesting schedule, staking/passive-income language, predetermined Realms governance, Raydium liquidity incentives, token-holder access claims, burn assumptions and other economic statements below are **historical assumptions, not current commitments**.
+
+Any current token economics, rights, metadata, liquidity or governance implementation requires a separately approved current institutional artifact and technical validation. Values preserved below — including token fields and addresses — remain historical repository evidence and must not be treated as current operational authority solely because they appear in this file.
+
+The historical content below is intentionally preserved without rewriting its original claims.
+
+---
+
 # IC DAO Tokenomics
 
 ## 💠 Overview
