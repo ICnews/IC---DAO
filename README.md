@@ -16,6 +16,8 @@ This repository is retained for historical reference and is not the current deve
 
 **Pre-deprecation historical reference:** `cfd05b443e4a2af8a57f9131e95142f30f11381e`
 
+**Historical artifact status register:** `HISTORICAL_ARTIFACT_STATUS.md`
+
 ---
 
 > **Historical content begins below. It is preserved as evidence of an earlier IC DAO implementation generation and should not be interpreted as the current roadmap, governance implementation, liquidity model, investor-access model or protocol commitment.**
