@@ -1,3 +1,17 @@
+# ⚠️ HISTORICAL GOVERNANCE FRAMEWORK — NOT CURRENT GOVERNANCE AUTHORITY
+
+This file preserves an earlier IC DAO governance model. Its historical filename, `Add TOKENOMICS.md`, is retained as part of repository history and should not be interpreted as current file naming or information architecture.
+
+**Governance remains core to IC DAO**, but current governance is broader than token-holder voting and includes authority, decision rights, controls, accountability, conflicts, approvals, escalation, auditability and the rights of relevant participants.
+
+The specific assumptions below — including Realms as the predetermined governance framework, `1 $IC = 1 vote`, universal token-holder proposal rights, a 4/6 treasury multisig, fixed proposal timing, treasury execution mechanics and the historical governance roadmap — are **historical assumptions, not current commitments**.
+
+Realms or another on-chain governance mechanism may only become a current implementation through controlled architectural validation and appropriate approval. This file is not the current governance specification or institutional Source of Truth.
+
+The historical content below is intentionally preserved without rewriting its original claims.
+
+---
+
 # IC DAO Governance Framework
 
 ## 🏛 Overview
