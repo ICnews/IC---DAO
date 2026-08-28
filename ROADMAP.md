@@ -1,3 +1,17 @@
+# ⚠️ HISTORICAL ROADMAP — NOT CURRENT COMMITMENTS
+
+This file preserves an earlier IC DAO roadmap and implementation generation for historical reference.
+
+IC DAO continues to focus on **real-world assets and real-estate financial infrastructure**, with **tokenization, governance and Solana** remaining important parts of the broader system direction. What changed is the architecture and the role of individual implementation choices.
+
+The phases, dates and implementation assumptions below — including specific commitments around Raydium liquidity, staking, predetermined Realms governance, NFT ownership certificates, cross-chain expansion and simplified open/liquid/borderless investor-access framing — are **historical assumptions, not current commitments**.
+
+This file is not the current institutional roadmap, product-launch schedule, architecture authority, economic commitment or investor-access representation. The current controlled roadmap is maintained in IC DAO's private institutional Source of Truth.
+
+The historical content below is intentionally preserved without rewriting its original claims.
+
+---
+
 # IC DAO Roadmap
 
 ## 🌍 Vision
