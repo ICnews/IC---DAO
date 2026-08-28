@@ -1,16 +1,24 @@
-# ⚠️ LEGACY / HISTORICAL REPOSITORY
+# ⚠️ HISTORICAL / LEGACY IMPLEMENTATION REPOSITORY
 
-This repository contains an earlier development direction of IC DAO and is retained for historical reference.
+This repository preserves an earlier public implementation direction of IC DAO.
 
-Its roadmap, token, liquidity, governance, staking, cross-chain and tokenization claims **do not represent the current institutional direction of IC DAO**.
+IC DAO continues to focus on **real-world assets and real-estate financial infrastructure**, with **tokenization, governance and Solana** remaining important parts of the broader system direction.
 
-Current institutional and product architecture is being rebuilt under a controlled internal process. This repository is **not** the current institutional Source of Truth and is **not** the current development repository.
+What has changed is the architecture around them:
+
+- tokenization is treated as a digital representation and financial-access layer rather than a complete real-estate product by itself;
+- governance is treated as a broader system of authority, decision rights, controls and accountability rather than being defined solely by token-holder voting;
+- Solana remains the primary blockchain direction, while individual protocols and implementation choices remain subject to controlled architectural validation.
+
+The historical roadmap and implementation assumptions preserved below — including specific commitments around Raydium liquidity, staking, a predetermined Realms governance model, cross-chain expansion, and simplified global investor access — should not be interpreted as current commitments.
+
+This repository is retained for historical reference and is not the current development repository or institutional Source of Truth.
 
 **Pre-deprecation historical reference:** `cfd05b443e4a2af8a57f9131e95142f30f11381e`
 
 ---
 
-> **Historical content begins below. It is preserved as evidence of an earlier IC DAO direction and should not be interpreted as current strategy, architecture, roadmap, governance, liquidity or tokenization intent.**
+> **Historical content begins below. It is preserved as evidence of an earlier IC DAO implementation generation and should not be interpreted as the current roadmap, governance implementation, liquidity model, investor-access model or protocol commitment.**
 
 ---
 
